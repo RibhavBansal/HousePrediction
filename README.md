@@ -1,8 +1,8 @@
 # HOUSE PREDICTION #
     ## Bangalore Home Price Prediction ##
     ## Training Model ##
-        ### Data cleaning ###
-        ### Feature Engineering ###
+        + Data cleaning 
+        + Feature Engineering 
         ### Outlier Removal ###
         ### Model Building ###
     ## Website created with UI
